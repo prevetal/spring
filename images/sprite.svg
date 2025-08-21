@@ -1,0 +1,9 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 48" id="ic_arrow_link">
+    <path d="M3.93823 3.61694H42.9362M42.9362 3.61694L3.93823 42.6169M42.9362 3.61694V44.312" stroke="currentColor" stroke-width="6.87935" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" id="ic_search">
+    <path d="M34.4473 18.551C34.4473 27.203 27.4313 34.219 18.7783 34.219C10.1263 34.219 3.11023 27.203 3.11023 18.551C3.11023 9.898 10.1263 2.883 18.7783 2.883C27.4313 2.883 34.4473 9.898 34.4473 18.551Z" stroke="currentColor" stroke-width="4.25221" stroke-miterlimit="10"></path>
+    <path d="M29.856 29.629L45.7709 45.547" stroke="currentColor" stroke-width="4.25221" stroke-miterlimit="10" stroke-linecap="round"></path>
+  </symbol>
+</svg>

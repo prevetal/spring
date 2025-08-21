@@ -1,0 +1,38 @@
+@media (max-width: 479px)
+{
+    /*----------------
+        Conditions
+    ----------------*/
+    .conditions .grid
+    {
+        gap: var(--cont_padding_half);
+    }
+
+
+    .conditions .grid .big_h
+    {
+        min-height: 258px;
+    }
+
+
+    .conditions .item
+    {
+        min-height: 124px;
+    }
+
+
+    .conditions .item .name
+    {
+        font-size: 17px;
+    }
+
+
+
+    /*------------
+        Footer
+    ------------*/
+    footer .title
+    {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,29 @@
+@media print,
+(max-width: 1439px)
+{
+    /*-------------
+        Support
+    -------------*/
+    .support
+    {
+        padding-block: 48px;
+    }
+
+
+    .support .bg
+    {
+        right: -100px;
+
+        min-width: 200px;
+    }
+
+
+
+    /*------------
+        Footer
+    ------------*/
+    footer .cont
+    {
+        gap: 120px;
+    }
+}
