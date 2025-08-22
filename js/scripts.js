@@ -17,6 +17,10 @@ document.addEventListener('DOMContentLoaded', function() {
 			spaceBetween: 0,
 			slidesPerView: 1,
 			lazy: true,
+			effect: 'fade',
+			fadeEffect: {
+				crossFade: true
+			},
 			autoplay: {
 				delay: 3000,
 				disableOnInteraction: false

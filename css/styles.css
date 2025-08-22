@@ -542,8 +542,21 @@ header .search_btn .icon
 -----------------*/
 .main_slider
 {
+    position: relative;
+
     background: #ddd;
     box-shadow: 0 6px 10px 4px rgba(0, 0, 0, .15), 0 2px 3px 0 rgba(0, 0, 0, .30);
+}
+
+
+.main_slider .swiper
+{
+    position: absolute;
+    z-index: 1;
+
+    pointer-events: none;
+
+    inset: 0;
 }
 
 
@@ -555,7 +568,7 @@ header .search_btn .icon
 }
 
 
-.main_slider .img
+.main_slider .swiper .img
 {
     position: absolute;
     z-index: 1;
